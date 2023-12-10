@@ -15,6 +15,6 @@ Splitting Dataset : Training = 50%, Validation = 50%
 
 ## Preprocessing dan Modelling
 
-- **Preprocessing Model** : resize(224,224), rotation_range=20, horizontal_flip=True, shear_range = 0.2, zoom_range = 0.2.
+ **Preprocessing Model** : resize(224,224), rotation_range=20, horizontal_flip=True, shear_range = 0.2, zoom_range = 0.2.
 
 
