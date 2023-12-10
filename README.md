@@ -1,6 +1,6 @@
 # Modul6_ML_B_183
 
-**Paper Rujukan :** [MobileNetV2: Inverted Residuals and Linear Bottlenecks]([https://vciba.springeropen.com/articles/10.1186/s42492-021-00091-z](https://openaccess.thecvf.com/content_cvpr_2018/html/Sandler_MobileNetV2_Inverted_Residuals_CVPR_2018_paper.html)
+**Paper Rujukan :** [MobileNetV2: Inverted Residuals and Linear Bottlenecks]([https://vciba.springeropen.com/articles/10.1186/s42492-021-00091-z](https://openaccess.thecvf.com/content_cvpr_2018/html/Sandler_MobileNetV2_Inverted_Residuals_CVPR_2018_paper.html))
 
 ***Dataset yang digunakan :*** [Image RPS dari Modul 5].
 Preprocessing yang digunakan : Data Augmentation dan Resizing
