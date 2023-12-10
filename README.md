@@ -4,7 +4,7 @@
 
 ***Dataset yang digunakan :*** [Image RPS dari Modul 5].
 Preprocessing yang digunakan : Data Augmentation dan Resizing
-
+(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.section.io%2Fengineering-education%2Fbuilding-a-multiclass-image-classifier-using-mobilenet-v2-and-tensorflow%2F&psig=AOvVaw2Da5ea2r_7zBmOpY5W6bBR&ust=1702308904412000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKC3rP2YhYMDFQAAAAAdAAAAABAI)
 Model yang digunakan : MobileNetV2
 
 **Akurasi** yang didapatkan menggunakan model MobileNetV2 adalah : **99%**
